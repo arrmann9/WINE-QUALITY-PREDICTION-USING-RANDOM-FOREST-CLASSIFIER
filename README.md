@@ -29,7 +29,7 @@ The quality scores range from 3 to 8. For classification purposes, wines with a 
 * Handles Non-Linear Relationships – Since wine quality depends on complex interactions between features, Random Forest captures these relationships effectively.
 * Reduces Overfitting – By averaging multiple decision trees, Random Forest reduces the risk of overfitting, ensuring better generalization on new data.
 * Handles Missing and Noisy Data Well – Unlike some ML algorithms, Random Forest is robust to missing values and noisy data.
-* Feature Importance – It helps in understanding which attributes contribute most to wine quality.
+* Feature Importance – It helps in understanding which attributes contribute most to wine quality.**}**
   
 **Project Workflow**
 * Load the dataset and check for missing values.
