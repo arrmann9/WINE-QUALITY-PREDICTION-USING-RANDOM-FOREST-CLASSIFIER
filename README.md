@@ -63,7 +63,8 @@ For an input wine sample with the following properties:
 * pH: 3.39
 * Sulphates: 0.47
 * Alcohol: 10.0
-**The model predicts: Bad Quality Wine**
+  
+* **The model predicts: Bad Quality Wine**
 
 **Future Improvements**
 * Tune hyperparameters (e.g., number of trees, depth) to optimize performance.
