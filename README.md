@@ -47,7 +47,7 @@ The quality scores range from 3 to 8. For classification purposes, wines with a 
 * Test the model with a sample input to predict wine quality.
 
 **Model Performance**
-Test Accuracy: 93.12% (Varies based on dataset splitting and hyperparameters)
+* Test Accuracy: 93.12% 
 
 **Example Prediction:**
 For an input wine sample with the following properties:
